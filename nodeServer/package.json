@@ -1,0 +1,17 @@
+{
+    "name": "nodeserver",
+    "version": "1.0.0",
+    "description": "I chat",
+    "main": "index.js",
+    "dependencies": {
+        "socket.io": "^2.4.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.7"
+    },
+    "scripts": {
+        "nodemon": "nodemon index.js"
+    },
+    "author": "Alfa",
+    "license": "ISC"
+}
